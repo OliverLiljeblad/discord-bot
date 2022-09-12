@@ -1,2 +1,2 @@
 # discord-bot
-Discord bot with c# 
+Interactive discord bot in c# 
